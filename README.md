@@ -9,7 +9,9 @@ A website that delivers solutions to businesses for search engine optimization a
 
 ##Website
 https://chrisdhodges12.github.io/urban-octo-telegram/
+<div
 <img src="assets/images/Horiseon-screenshot.jpg" width="500px" height="400px">
+</div>
 
 
 ##Contribution
