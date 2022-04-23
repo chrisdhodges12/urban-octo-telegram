@@ -16,6 +16,5 @@ https://chrisdhodges12.github.io/urban-octo-telegram/
 
 
 
-##Contribution:
 Starter code made by Xandromus (Xander Rapstine).
 Enhancements by Chris Hodges.
